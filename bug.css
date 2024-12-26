@@ -1,0 +1,1 @@
+The CSS specificity rules can lead to unexpected behavior if not carefully managed.  For example, an inline style might override a more general style unintentionally, making it hard to debug. Another problem is the cascade itself; styles can unexpectedly accumulate or conflict, making it difficult to pinpoint the origin of an undesired style.
